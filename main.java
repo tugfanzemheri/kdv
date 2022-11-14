@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class main {
     public static void main(String[] args) {
 
-        // Projemizde gerekli tüm değikenleri burada belirliyoruz.
+        // Projemizde gerekli tüm değişkenleri burada belirliyoruz.
 
             double fiyat, kdvOrani = 0.18, kdvTutari, kdvliFiyat;
 
